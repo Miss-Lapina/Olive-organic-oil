@@ -44,8 +44,8 @@ nav a:hover {
 }
 
 .hero {
-    /* background: url('images/hero-bg.jpg') no-repeat center center/cover; */
-    background: url(https://placehold.jp/30/378164/ffffff/1920x1080.jpg) no-repeat center center/cover;
+    background: url('images/background-image.jpg') no-repeat center center/cover;
+    /* background: url(https://placehold.jp/30/378164/ffffff/1920x1080.jpg) no-repeat center center/cover; */
     background-size: cover;
     height: 100vh;
     display: flex;
